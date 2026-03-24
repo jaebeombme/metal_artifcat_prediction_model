@@ -1,0 +1,8 @@
+checkpoints/
+data/
+song_MA/
+incorrected_cases/
+analysis/
+notebooks/
+
+**/__pycache__/
