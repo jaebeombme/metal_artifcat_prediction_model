@@ -1,7 +1,5 @@
 # MAPM
 =======
-MAPM
-=======
 Parameter
 
 
