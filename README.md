@@ -1,4 +1,4 @@
-# MAPM
+# Metal Arifact Predicion Model
 
 Parameter
 
